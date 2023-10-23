@@ -1,0 +1,21 @@
+{
+  "name": "chill-hacker-dark-theme",
+  "displayName": "chill-hacker-dark-theme",
+  "description": "simple dark application colors, green and grey tones for syntax highlighting",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chill Hacker Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Chill Hacker Dark-color-theme.json"
+      }
+    ]
+  }
+}
