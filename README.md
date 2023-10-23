@@ -6,7 +6,7 @@ My plan is an application interface that was very simple relaxing dark and then 
 various greens and grays for the hacker style look.  
 
 Here's the look so far:  
-<img src="theme_preview.jpg" alt="theme preview" width="800"/>
+![theme preview](./theme_preview.png)
 
 
 ### Here are some tools to help
